@@ -1,0 +1,186 @@
+[
+  {
+    "winner": "Eton College",
+    "loser": "St. Paul's School",
+    "stage": "Final",
+    "date": "15-Aug-2021",
+    "finish_time": "6:40",
+    "verdict": "1\u00bc Lengths"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "Westminster School",
+    "stage": "Semi-Final",
+    "date": "14-Aug-2021",
+    "finish_time": "6:46",
+    "verdict": "1\u00bd Lengths"
+  },
+  {
+    "winner": "Eton College",
+    "loser": "St. Edward's School",
+    "stage": "Semi-Final",
+    "date": "14-Aug-2021",
+    "finish_time": "6:45",
+    "verdict": "1\u00bc Lengths"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "St. Joseph's Preparatory School, U.S.A.",
+    "stage": "Heats",
+    "date": "13-Aug-2021",
+    "finish_time": "6:49",
+    "verdict": "1\u2153 Lengths"
+  },
+  {
+    "winner": "Westminster School",
+    "loser": "Shrewsbury School",
+    "stage": "Heats",
+    "date": "13-Aug-2021",
+    "finish_time": "6:46",
+    "verdict": "\u2154 Length"
+  },
+  {
+    "winner": "St. Edward's School",
+    "loser": "Abingdon School",
+    "stage": "Heats",
+    "date": "13-Aug-2021",
+    "finish_time": "6:51",
+    "verdict": "2 Lengths"
+  },
+  {
+    "winner": "Eton College",
+    "loser": "King's College School",
+    "stage": "Heats",
+    "date": "13-Aug-2021",
+    "finish_time": "6:43",
+    "verdict": "\u00be Length"
+  },
+  {
+    "winner": "Westminster School",
+    "loser": "Norwich School",
+    "stage": "Heats",
+    "date": "12-Aug-2021",
+    "finish_time": "7:09",
+    "verdict": "4 Lengths"
+  },
+  {
+    "winner": "Shrewsbury School",
+    "loser": "Hampton School",
+    "stage": "Heats",
+    "date": "12-Aug-2021",
+    "finish_time": "7:06",
+    "verdict": "3\u00bd Lengths"
+  },
+  {
+    "winner": "St. Joseph's Preparatory, U.S.A.",
+    "loser": "Shiplake College",
+    "stage": "Heats",
+    "date": "12-Aug-2021",
+    "finish_time": "6:56",
+    "verdict": "\u00bd Length"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "Dulwich College",
+    "stage": "Heats",
+    "date": "12-Aug-2021",
+    "finish_time": "6:51",
+    "verdict": "3\u00be Lengths"
+  },
+  {
+    "winner": "Abingdon School",
+    "loser": "Bedford School",
+    "stage": "Heats",
+    "date": "12-Aug-2021",
+    "finish_time": "6:52",
+    "verdict": "4\u00be  Lengths"
+  },
+  {
+    "winner": "Eton College",
+    "loser": "Reading Blue Coat School",
+    "stage": "Heats",
+    "date": "12-Aug-2021",
+    "finish_time": "6:52",
+    "verdict": "1 Length"
+  },
+  {
+    "winner": "St. Edward's School",
+    "loser": "Monmouth School",
+    "stage": "Heats",
+    "date": "12-Aug-2021",
+    "finish_time": "6:52",
+    "verdict": "3 Lengths"
+  },
+  {
+    "winner": "King's College School, Wimbledon",
+    "loser": "Bedford Modern School",
+    "stage": "Heats",
+    "date": "12-Aug-2021",
+    "finish_time": "6:52",
+    "verdict": "Easily"
+  },
+  {
+    "winner": "Norwich School",
+    "loser": "Durham School",
+    "stage": "Heats",
+    "date": "11-Aug-2021",
+    "finish_time": "7:52",
+    "verdict": "Easily"
+  },
+  {
+    "winner": "Hampton School",
+    "loser": "Mossbourne Community Academy",
+    "stage": "Heats",
+    "date": "11-Aug-2021",
+    "finish_time": "7:27",
+    "verdict": "Easily"
+  },
+  {
+    "winner": "Shiplake College",
+    "loser": "Radley College",
+    "stage": "Heats",
+    "date": "11-Aug-2021",
+    "finish_time": "6:47",
+    "verdict": "\u00be Length"
+  },
+  {
+    "winner": "Dulwich College",
+    "loser": "St. George's College",
+    "stage": "Heats",
+    "date": "11-Aug-2021",
+    "finish_time": "7:00",
+    "verdict": "1 Length"
+  },
+  {
+    "winner": "Reading Blue Coat School",
+    "loser": "Pangbourne College",
+    "stage": "Heats",
+    "date": "11-Aug-2021",
+    "finish_time": "6:59",
+    "verdict": "3\u00bd Lengths"
+  },
+  {
+    "winner": "Bedford Modern School",
+    "loser": "Sir William Borlase's Grammar School",
+    "stage": "Heats",
+    "date": "11-Aug-2021",
+    "finish_time": "7:35",
+    "verdict": "2\u00bc Lengths"
+  },
+  {
+    "winner": "Monmouth School",
+    "loser": "The King's School, Chester",
+    "stage": "Heats",
+    "date": "11-Aug-2021",
+    "finish_time": "7:14",
+    "verdict": "2\u00bc Lengths"
+  },
+  {
+    "winner": "Bedford School",
+    "loser": "The King's School, Worcester",
+    "stage": "Heats",
+    "date": "11-Aug-2021",
+    "finish_time": "7:35",
+    "verdict": "Easily"
+  }
+]

@@ -1,0 +1,251 @@
+{
+  "date": "29-May-2021",
+  "Time Trial": [
+    {
+      "position": "1",
+      "crew_name": "St Pauls School Boat Club A",
+      "finish_time": "01:08.09"
+    },
+    {
+      "position": "2",
+      "crew_name": "Eton College Boat Club C",
+      "finish_time": "01:09.19"
+    },
+    {
+      "position": "3",
+      "crew_name": "Kings College School Boat Club A",
+      "finish_time": "01:09.16"
+    },
+    {
+      "position": "4",
+      "crew_name": "Westminster School Boat Club B",
+      "finish_time": "01:09.78"
+    },
+    {
+      "position": "5",
+      "crew_name": "Royal Shrewsbury School Boat Club A",
+      "finish_time": "01:07.08"
+    },
+    {
+      "position": "6",
+      "crew_name": "Shiplake College Boat Club B",
+      "finish_time": "01:08.73"
+    },
+    {
+      "position": "7",
+      "crew_name": "Abingdon School Boat Club A",
+      "finish_time": "01:08.58"
+    },
+    {
+      "position": "8",
+      "crew_name": "St Edwards School Boat Club B",
+      "finish_time": "01:09.34"
+    },
+    {
+      "position": "9",
+      "crew_name": "Hinksey Sculling School A",
+      "finish_time": "01:10.46"
+    },
+    {
+      "position": "10",
+      "crew_name": "Radley College Boat Club A",
+      "finish_time": "01:10.54"
+    },
+    {
+      "position": "11",
+      "crew_name": "Reading Blue Coat School Boat Club A",
+      "finish_time": "01:11.52"
+    },
+    {
+      "position": "12",
+      "crew_name": "Monmouth School Rowing Club A",
+      "finish_time": "01:10.54"
+    },
+    {
+      "position": "13",
+      "crew_name": "Bedford School Boat Club D",
+      "finish_time": "01:10.53"
+    },
+    {
+      "position": "14",
+      "crew_name": "Pangbourne College Boat Club A",
+      "finish_time": "01:11.78"
+    },
+    {
+      "position": "15",
+      "crew_name": "Dulwich College Boat Club A",
+      "finish_time": "01:11.15"
+    },
+    {
+      "position": "16",
+      "crew_name": "Kings School Chester, The, Rowing Club D",
+      "finish_time": "01:11.74"
+    },
+    {
+      "position": "17",
+      "crew_name": "Hampton School Boat Club D",
+      "finish_time": "01:07.08"
+    },
+    {
+      "position": "18",
+      "crew_name": "Bedford Modern School Boat Club C",
+      "finish_time": "01:15.45"
+    },
+    {
+      "position": "19",
+      "crew_name": "St Georges College Boat Club B",
+      "finish_time": "01:13.89"
+    },
+    {
+      "position": "20",
+      "crew_name": "Windsor Boys School, The, Boat Club D",
+      "finish_time": "01:15.60"
+    },
+    {
+      "position": "21",
+      "crew_name": "Durham School Boat Club B",
+      "finish_time": "01:15.83"
+    },
+    {
+      "position": "22",
+      "crew_name": "Bryanston School Boat Club B",
+      "finish_time": "01:18.73"
+    },
+    {
+      "position": "23",
+      "crew_name": "1863 Club B",
+      "finish_time": "01:19.15"
+    },
+    {
+      "position": "24",
+      "crew_name": "Monkton Combe School Boat Club D",
+      "finish_time": "01:24.78"
+    }
+  ],
+  "Ch 8+ B (Queen Mother) Final C": [
+    {
+      "position": "1",
+      "crew_name": "Windsor Boys School, The, Boat Club D",
+      "finish_time": "07:00.15"
+    },
+    {
+      "position": "2",
+      "crew_name": "Hampton School Boat Club D",
+      "finish_time": "07:03.27"
+    },
+    {
+      "position": "3",
+      "crew_name": "Bryanston School Boat Club B",
+      "finish_time": "07:06.72"
+    },
+    {
+      "position": "4",
+      "crew_name": "Bedford Modern School Boat Club C",
+      "finish_time": "07:09.39"
+    },
+    {
+      "position": "5",
+      "crew_name": "St Georges College Boat Club B",
+      "finish_time": "07:13.13"
+    },
+    {
+      "position": "6",
+      "crew_name": "Durham School Boat Club B",
+      "finish_time": "07:25.30"
+    },
+    {
+      "position": "7",
+      "crew_name": "Monkton Combe School Boat Club D",
+      "finish_time": "07:28.30"
+    },
+    {
+      "position": "8",
+      "crew_name": "1863 Club B",
+      "finish_time": "07:41.73"
+    }
+  ],
+  "Ch 8+ B (Queen Mother) Final B": [
+    {
+      "position": "1",
+      "crew_name": "Hinksey Sculling School A",
+      "finish_time": "06:28.42"
+    },
+    {
+      "position": "2",
+      "crew_name": "Dulwich College Boat Club A",
+      "finish_time": "06:34.16"
+    },
+    {
+      "position": "3",
+      "crew_name": "Bedford School Boat Club D",
+      "finish_time": "06:35.15"
+    },
+    {
+      "position": "4",
+      "crew_name": "Reading Blue Coat School Boat Club A",
+      "finish_time": "06:36.08"
+    },
+    {
+      "position": "5",
+      "crew_name": "Monmouth School Rowing Club A",
+      "finish_time": "06:38.71"
+    },
+    {
+      "position": "6",
+      "crew_name": "Radley College Boat Club A",
+      "finish_time": "06:39.03"
+    },
+    {
+      "position": "7",
+      "crew_name": "Pangbourne College Boat Club A",
+      "finish_time": "06:44.74"
+    },
+    {
+      "position": "8",
+      "crew_name": "Kings School Chester, The, Rowing Club D",
+      "finish_time": "06:53.54"
+    }
+  ],
+  "Ch 8+ B (Queen Mother) Final A": [
+    {
+      "position": "1",
+      "crew_name": "Eton College Boat Club C",
+      "finish_time": "06:22.42"
+    },
+    {
+      "position": "2",
+      "crew_name": "Kings College School Boat Club A",
+      "finish_time": "06:26.27"
+    },
+    {
+      "position": "3",
+      "crew_name": "St Pauls School Boat Club A",
+      "finish_time": "06:26.51"
+    },
+    {
+      "position": "4",
+      "crew_name": "Abingdon School Boat Club A",
+      "finish_time": "06:28.14"
+    },
+    {
+      "position": "5",
+      "crew_name": "Royal Shrewsbury School Boat Club A",
+      "finish_time": "06:30.16"
+    },
+    {
+      "position": "6",
+      "crew_name": "St Edwards School Boat Club B",
+      "finish_time": "06:30.48"
+    },
+    {
+      "position": "7",
+      "crew_name": "Westminster School Boat Club B",
+      "finish_time": "06:30.68"
+    },
+    {
+      "position": "8",
+      "crew_name": "Shiplake College Boat Club B",
+      "finish_time": "06:31.85"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+[
+  {
+    "winner": "St. Paul's School",
+    "loser": "Radley College",
+    "stage": "Final",
+    "date": "3-Jul-2022",
+    "finish_time": "6:15",
+    "verdict": "\u2153 length"
+  },
+  {
+    "winner": "Radley College",
+    "loser": "Eton College",
+    "stage": "Semi-Final",
+    "date": "2-Jul-2022",
+    "finish_time": "6:25",
+    "verdict": "\u00bc length"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "King's College School, Wimbledon",
+    "stage": "Semi-Final",
+    "date": "2-Jul-2022",
+    "finish_time": "6:47",
+    "verdict": "\u00be length"
+  },
+  {
+    "winner": "King's College School, Wimbledon",
+    "loser": "Woodrow Wilson High School, U.S.A.",
+    "stage": "Heats",
+    "date": "1-Jul-2022",
+    "finish_time": "6:55",
+    "verdict": "4 lengths"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "The King's School, Parramatta, Australia",
+    "stage": "Heats",
+    "date": "1-Jul-2022",
+    "finish_time": "6:36",
+    "verdict": "\u2154 length"
+  },
+  {
+    "winner": "Eton College",
+    "loser": "The King's School, Chester",
+    "stage": "Heats",
+    "date": "1-Jul-2022",
+    "finish_time": "7:11",
+    "verdict": "Easily"
+  },
+  {
+    "winner": "Radley College",
+    "loser": "Shrewsbury School",
+    "stage": "Heats",
+    "date": "1-Jul-2022",
+    "finish_time": "6:42",
+    "verdict": "3 \u00bd lengths"
+  },
+  {
+    "winner": "The King's School, Parramatta, Australia",
+    "loser": "Hampton School",
+    "stage": "Heats",
+    "date": "29-Jun-2022",
+    "finish_time": "6:55",
+    "verdict": "2 \u00be lengths"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "Shiplake College",
+    "stage": "Heats",
+    "date": "29-Jun-2022",
+    "finish_time": "6:47",
+    "verdict": "1 length"
+  },
+  {
+    "winner": "Shrewsbury School",
+    "loser": "Westminster School",
+    "stage": "Heats",
+    "date": "29-Jun-2022",
+    "finish_time": "7:07",
+    "verdict": "\u00be lengths"
+  },
+  {
+    "winner": "Radley College",
+    "loser": "St. Edward's School",
+    "stage": "Heats",
+    "date": "29-Jun-2022",
+    "finish_time": "6:46",
+    "verdict": "1 \u00be lengths"
+  },
+  {
+    "winner": "Eton College",
+    "loser": "Enniskillen Royal Boat Club",
+    "stage": "Heats",
+    "date": "29-Jun-2022",
+    "finish_time": "7:00",
+    "verdict": "3 \u00bc lengths"
+  },
+  {
+    "winner": "The King's School, Chester",
+    "loser": "The Scots College, Australia",
+    "stage": "Heats",
+    "date": "29-Jun-2022",
+    "finish_time": "7:18",
+    "verdict": "1 length"
+  },
+  {
+    "winner": "Woodrow Wilson High School, U.S.A.",
+    "loser": "Norwich School",
+    "stage": "Heats",
+    "date": "29-Jun-2022",
+    "finish_time": "7:18",
+    "verdict": "1 length"
+  },
+  {
+    "winner": "King's College School, Wimbledon",
+    "loser": "Dulwich College",
+    "stage": "Heats",
+    "date": "29-Jun-2022",
+    "finish_time": "6:41",
+    "verdict": "Easily"
+  },
+  {
+    "winner": "Westminster School",
+    "loser": "Brunswick School, U.S.A.",
+    "stage": "Heats",
+    "date": "28-Jun-2022",
+    "finish_time": "6:59",
+    "verdict": "3 \u00be lengths"
+  },
+  {
+    "winner": "Shrewsbury School",
+    "loser": "St George's College",
+    "stage": "Heats",
+    "date": "28-Jun-2022",
+    "finish_time": "7:03",
+    "verdict": "2 \u00bd lengths"
+  },
+  {
+    "winner": "Radley College",
+    "loser": "Latymer Upper School",
+    "stage": "Heats",
+    "date": "28-Jun-2022",
+    "finish_time": "6:50",
+    "verdict": "4 lengths"
+  },
+  {
+    "winner": "St. Edward's School",
+    "loser": "Pangbourne College",
+    "stage": "Heats",
+    "date": "28-Jun-2022",
+    "finish_time": "7:03",
+    "verdict": "4 \u00be lengths"
+  },
+  {
+    "winner": "King's College School, Wimbledon",
+    "loser": "Canford School",
+    "stage": "Heats",
+    "date": "28-Jun-2022",
+    "finish_time": "7:08",
+    "verdict": "Easily"
+  },
+  {
+    "winner": "Woodrow Wilson High School, U.S.A.",
+    "loser": "Reading Blue Coat School",
+    "stage": "Heats",
+    "date": "28-Jun-2022",
+    "finish_time": "7:33",
+    "verdict": "1 \u00be lengths"
+  },
+  {
+    "winner": "Norwich School",
+    "loser": "Winchester College",
+    "stage": "Heats",
+    "date": "28-Jun-2022",
+    "finish_time": "7:42",
+    "verdict": "4 lengths"
+  },
+  {
+    "winner": "Dulwich College",
+    "loser": "Bryanston School",
+    "stage": "Heats",
+    "date": "28-Jun-2022",
+    "finish_time": "7:29",
+    "verdict": "Easily"
+  },
+  {
+    "winner": "Eton College",
+    "loser": "Groton School, U.S.A.",
+    "stage": "Heats",
+    "date": "28-Jun-2022",
+    "finish_time": "7:12",
+    "verdict": "3 lengths"
+  },
+  {
+    "winner": "Enniskillen Royal Boat Club",
+    "loser": "The 1863 Club",
+    "stage": "Heats",
+    "date": "28-Jun-2022",
+    "finish_time": "7:18",
+    "verdict": "Easily"
+  },
+  {
+    "winner": "Hampton School",
+    "loser": "Brooks School, U.S.A.",
+    "stage": "Heats",
+    "date": "28-Jun-2022",
+    "finish_time": "7:21",
+    "verdict": "1 length"
+  },
+  {
+    "winner": "Shiplake College",
+    "loser": "Bedford School",
+    "stage": "Heats",
+    "date": "28-Jun-2022",
+    "finish_time": "7:31",
+    "verdict": "3 \u00be lengths"
+  },
+  {
+    "winner": "The King's School, Chester",
+    "loser": "Claires Court School",
+    "stage": "Heats",
+    "date": "28-Jun-2022",
+    "finish_time": "7:36",
+    "verdict": "2 lengths"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "The Windsor Boys' School",
+    "stage": "Heats",
+    "date": "28-Jun-2022",
+    "finish_time": "7:25",
+    "verdict": "2 \u00bd lengths"
+  },
+  {
+    "winner": "The King's School, Parramatta, Australia",
+    "loser": "Abingdon School",
+    "stage": "Heats",
+    "date": "28-Jun-2022",
+    "finish_time": "7:10",
+    "verdict": "Easily"
+  },
+  {
+    "winner": "The Scots College, Australia",
+    "loser": "The King's School, Worcester",
+    "stage": "Heats",
+    "date": "28-Jun-2022",
+    "finish_time": "7:30",
+    "verdict": "Easily"
+  }
+]

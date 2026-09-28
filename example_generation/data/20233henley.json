@@ -1,0 +1,250 @@
+[
+  {
+    "winner": "St. Paul's School",
+    "loser": "Shiplake College",
+    "stage": "final",
+    "date": "7-Jul-2024",
+    "finish_time": "06:46",
+    "verdict": "\u00be length"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "St. Edward's School",
+    "stage": "semi-finals",
+    "date": "6-Jul-2024",
+    "finish_time": "06:47",
+    "verdict": "1\u00bc length"
+  },
+  {
+    "winner": "Shiplake College",
+    "loser": "Eton College",
+    "stage": "semi-finals",
+    "date": "6-Jul-2024",
+    "finish_time": "06:57",
+    "verdict": "\u00be length"
+  },
+  {
+    "winner": "St. Edward's School",
+    "loser": "King's College School, Wimbledon",
+    "stage": "heats",
+    "date": "5-Jul-2024",
+    "finish_time": "06:30",
+    "verdict": "\u00be length"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "Princeton National Rowing Association, U.S.A.",
+    "stage": "heats",
+    "date": "5-Jul-2024",
+    "finish_time": "06:35",
+    "verdict": "1 \u2153 length"
+  },
+  {
+    "winner": "Shiplake College",
+    "loser": "Radley College",
+    "stage": "heats",
+    "date": "5-Jul-2024",
+    "finish_time": "06:24",
+    "verdict": "\u2154 length"
+  },
+  {
+    "winner": "Eton College",
+    "loser": "The Southport School, Australia",
+    "stage": "heats",
+    "date": "5-Jul-2024",
+    "finish_time": "06:33",
+    "verdict": "\u00be length"
+  },
+  {
+    "winner": "St. Edward's School",
+    "loser": "Hamilton Boys' High School, New Zealand",
+    "stage": "heats",
+    "date": "3-Jul-2024",
+    "finish_time": "06:44",
+    "verdict": "2 \u00bd length"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "Westminster School",
+    "stage": "heats",
+    "date": "3-Jul-2024",
+    "finish_time": "06:47",
+    "verdict": "3 lengths"
+  },
+  {
+    "winner": "King's College School, Wimbledon",
+    "loser": "Dulwich College",
+    "stage": "heats",
+    "date": "3-Jul-2024",
+    "finish_time": "06:51",
+    "verdict": "1 \u00be length"
+  },
+  {
+    "winner": "Princeton National Rowing Association, U.S.A.",
+    "loser": "Abingdon School",
+    "stage": "heats",
+    "date": "3-Jul-2024",
+    "finish_time": "07:05",
+    "verdict": "2 \u00bc length"
+  },
+  {
+    "winner": "Eton College",
+    "loser": "Norwich School",
+    "stage": "heats",
+    "date": "3-Jul-2024",
+    "finish_time": "06:57",
+    "verdict": "3 \u00be length"
+  },
+  {
+    "winner": "The Southport School, Australia",
+    "loser": "Reading Blue Coat School",
+    "stage": "heats",
+    "date": "3-Jul-2024",
+    "finish_time": "07:01",
+    "verdict": "2 \u00bd length"
+  },
+  {
+    "winner": "Shiplake College",
+    "loser": "Saugatuck Rowing Club, U.S.A.",
+    "stage": "heats",
+    "date": "3-Jul-2024",
+    "finish_time": "06:52",
+    "verdict": "\u00be length"
+  },
+  {
+    "winner": "Radley College",
+    "loser": "The King's School, Chester",
+    "stage": "heats",
+    "date": "3-Jul-2024",
+    "finish_time": "06:55",
+    "verdict": "2 \u00bd length"
+  },
+  {
+    "winner": "Westminster School",
+    "loser": "Sch\u00fclerruderverein Alter Teichweg, Hamburg, Germany",
+    "stage": "heats",
+    "date": "2-Jul-2024",
+    "finish_time": "06:44",
+    "verdict": "1\u00bc length"
+  },
+  {
+    "winner": "Princeton National Rowing Association, U.S.A.",
+    "loser": "Shrewsbury School",
+    "stage": "heats",
+    "date": "2-Jul-2024",
+    "finish_time": "06:34",
+    "verdict": "2 \u00bd length"
+  },
+  {
+    "winner": "Abingdon School",
+    "loser": "Kew House School",
+    "stage": "heats",
+    "date": "2-Jul-2024",
+    "finish_time": "06:54",
+    "verdict": "1 length"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "Emanuel School",
+    "stage": "heats",
+    "date": "2-Jul-2024",
+    "finish_time": "06:45",
+    "verdict": "Easily"
+  },
+  {
+    "winner": "St. Edward's School",
+    "loser": "Pangbourne College",
+    "stage": "heats",
+    "date": "2-Jul-2024",
+    "finish_time": "06:44",
+    "verdict": "4 \u00be length"
+  },
+  {
+    "winner": "King's College School, Wimbledon",
+    "loser": "Great Marlow School",
+    "stage": "heats",
+    "date": "2-Jul-2024",
+    "finish_time": "06:49",
+    "verdict": "4 \u00be length"
+  },
+  {
+    "winner": "Dulwich College",
+    "loser": "The Windsor Boys' School",
+    "stage": "heats",
+    "date": "2-Jul-2024",
+    "finish_time": "06:40",
+    "verdict": "3 \u00bc length"
+  },
+  {
+    "winner": "Hamilton Boys' High School, New Zealand",
+    "loser": "St. George's College",
+    "stage": "heats",
+    "date": "2-Jul-2024",
+    "finish_time": "06:51",
+    "verdict": "3 lengths"
+  },
+  {
+    "winner": "The King's School, Chester",
+    "loser": "Monkton Combe School",
+    "stage": "heats",
+    "date": "2-Jul-2024",
+    "finish_time": "06:49",
+    "verdict": "4 \u00bd length"
+  },
+  {
+    "winner": "Radley College",
+    "loser": "Hampton School",
+    "stage": "heats",
+    "date": "2-Jul-2024",
+    "finish_time": "06:21",
+    "verdict": "1 length"
+  },
+  {
+    "winner": "Norwich School",
+    "loser": "Monmouth School",
+    "stage": "heats",
+    "date": "2-Jul-2024",
+    "finish_time": "06:48",
+    "verdict": "2 \u00bd length"
+  },
+  {
+    "winner": "Eton College",
+    "loser": "Bedford School",
+    "stage": "heats",
+    "date": "2-Jul-2024",
+    "finish_time": "06:29",
+    "verdict": "\u2153 length"
+  },
+  {
+    "winner": "Shiplake College",
+    "loser": "Latymer Upper School",
+    "stage": "heats",
+    "date": "2-Jul-2024",
+    "finish_time": "06:29",
+    "verdict": "1\u00bc length"
+  },
+  {
+    "winner": "Saugatuck Rowing Club, U.S.A.",
+    "loser": "Hinksey Sculling School",
+    "stage": "heats",
+    "date": "2-Jul-2024",
+    "finish_time": "06:44",
+    "verdict": "3 \u00bc length"
+  },
+  {
+    "winner": "The Southport School, Australia",
+    "loser": "Belen Jesuit Preparatory School, U.S.A.",
+    "stage": "heats",
+    "date": "2-Jul-2024",
+    "finish_time": "06:32",
+    "verdict": "1\u00bc length"
+  },
+  {
+    "winner": "Reading Blue Coat School",
+    "loser": "Winchester College",
+    "stage": "heats",
+    "date": "2-Jul-2024",
+    "finish_time": "06:50",
+    "verdict": "2 \u00be length"
+  }
+]

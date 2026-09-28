@@ -1,0 +1,250 @@
+[
+  {
+    "winner": "St. Edward's School",
+    "loser": "St. Paul's School",
+    "stage": "Final",
+    "date": "2-Jul-2023",
+    "finish_time": "6:41",
+    "verdict": "\u2153 Length"
+  },
+  {
+    "winner": "St. Edward's School",
+    "loser": "Radley College",
+    "stage": "Semi-Final",
+    "date": "1-Jul-2023",
+    "finish_time": "6:29",
+    "verdict": "1 Length"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "Shiplake College",
+    "stage": "Semi-Final",
+    "date": "1-Jul-2023",
+    "finish_time": "6:40",
+    "verdict": "\u00be Length"
+  },
+  {
+    "winner": "Radley College",
+    "loser": "King's College School, Wimbledon",
+    "stage": "Heats",
+    "date": "30-Jun-2023",
+    "finish_time": "6:46",
+    "verdict": "1 Length"
+  },
+  {
+    "winner": "St. Edward's School",
+    "loser": "Eton College",
+    "stage": "Heats",
+    "date": "30-Jun-2023",
+    "finish_time": "6:49",
+    "verdict": "1\u00be Lengths"
+  },
+  {
+    "winner": "Shiplake College",
+    "loser": "Marin Rowing Association, U.S.A.",
+    "stage": "Heats",
+    "date": "30-Jun-2023",
+    "finish_time": "6:56",
+    "verdict": "1 Length"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "Brisbane Boys' College, Australia",
+    "stage": "Heats",
+    "date": "30-Jun-2023",
+    "finish_time": "6:50",
+    "verdict": "2 Lengths"
+  },
+  {
+    "winner": "Shiplake College",
+    "loser": "Deerfield Academy, U.S.A.",
+    "stage": "Heats",
+    "date": "28-Jun-2023",
+    "finish_time": "6:24",
+    "verdict": "1 Length"
+  },
+  {
+    "winner": "Marin Rowing Association, U.S.A.",
+    "loser": "Shrewsbury School",
+    "stage": "Heats",
+    "date": "28-Jun-2023",
+    "finish_time": "6:50",
+    "verdict": "2 Lengths"
+  },
+  {
+    "winner": "St. Edward's School",
+    "loser": "Hampton School",
+    "stage": "Heats",
+    "date": "28-Jun-2023",
+    "finish_time": "6:50",
+    "verdict": "2\u00bd Lengths"
+  },
+  {
+    "winner": "Eton College",
+    "loser": "Great Marlow School",
+    "stage": "Heats",
+    "date": "28-Jun-2023",
+    "finish_time": "7:03",
+    "verdict": "Easily"
+  },
+  {
+    "winner": "King's College School, Wimbledon",
+    "loser": "Westminster School",
+    "stage": "Heats",
+    "date": "28-Jun-2023",
+    "finish_time": "6:36",
+    "verdict": "1\u00bd Lengths"
+  },
+  {
+    "winner": "Radley College",
+    "loser": "Reading Blue Coat School",
+    "stage": "Heats",
+    "date": "28-Jun-2023",
+    "finish_time": "6:49",
+    "verdict": "1\u00be Lengths"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "The Windsor Boys' School",
+    "stage": "Heats",
+    "date": "28-Jun-2023",
+    "finish_time": "6:53",
+    "verdict": "1\u00bc Lengths"
+  },
+  {
+    "winner": "Brisbane Boys' College, Australia",
+    "loser": "Llandaff Rowing Club",
+    "stage": "Heats",
+    "date": "28-Jun-2023",
+    "finish_time": "6:50",
+    "verdict": "2\u00be Lengths"
+  },
+  {
+    "winner": "Hampton School",
+    "loser": "Abingdon School",
+    "stage": "Heats",
+    "date": "27-Jun-2023",
+    "finish_time": "6:57",
+    "verdict": "3 Lengths"
+  },
+  {
+    "winner": "St. Edward's School",
+    "loser": "Stadtteilschule Alter Teichweg, Hamburg, Germany",
+    "stage": "Heats",
+    "date": "27-Jun-2023",
+    "finish_time": "6:39",
+    "verdict": "2\u00be Lengths"
+  },
+  {
+    "winner": "Great Marlow School",
+    "loser": "Monkton Combe School",
+    "stage": "Heats",
+    "date": "27-Jun-2023",
+    "finish_time": "7:08",
+    "verdict": "2 Lengths"
+  },
+  {
+    "winner": "Eton College",
+    "loser": "Greenwich Crew, U.S.A.",
+    "stage": "Heats",
+    "date": "27-Jun-2023",
+    "finish_time": "6:37",
+    "verdict": "\u00be Length"
+  },
+  {
+    "winner": "Reading Blue Coat School",
+    "loser": "Emanuel School",
+    "stage": "Heats",
+    "date": "27-Jun-2023",
+    "finish_time": "7:09",
+    "verdict": "2\u00be"
+  },
+  {
+    "winner": "Radley College",
+    "loser": "St. Joseph's Preparatory School, U.S.A.",
+    "stage": "Heats",
+    "date": "27-Jun-2023",
+    "finish_time": "6:52",
+    "verdict": "2 Lengths"
+  },
+  {
+    "winner": "Marin Rowing Association, U.S.A.",
+    "loser": "Dulwich College",
+    "stage": "Heats",
+    "date": "27-Jun-2023",
+    "finish_time": "6:53",
+    "verdict": "3\u00bc Lengths"
+  },
+  {
+    "winner": "Shrewsbury School",
+    "loser": "Kew House School",
+    "stage": "Heats",
+    "date": "27-Jun-2023",
+    "finish_time": "7:08",
+    "verdict": "Easily"
+  },
+  {
+    "winner": "King's College School",
+    "loser": "Winchester College",
+    "stage": "Heats",
+    "date": "27-Jun-2023",
+    "finish_time": "6:54",
+    "verdict": "4\u00bd Lengths"
+  },
+  {
+    "winner": "Westminster School",
+    "loser": "Canford School",
+    "stage": "Heats",
+    "date": "27-Jun-2023",
+    "finish_time": "6:58",
+    "verdict": "4\u00bd Lengths"
+  },
+  {
+    "winner": "The Windsor Boys' School",
+    "loser": "Norwich School",
+    "stage": "Heats",
+    "date": "27-Jun-2023",
+    "finish_time": "7:01",
+    "verdict": "2\u2153 Lengths"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "Bedford School",
+    "stage": "Heats",
+    "date": "27-Jun-2023",
+    "finish_time": "6:43",
+    "verdict": "1\u00bd Lengths"
+  },
+  {
+    "winner": "Shiplake College",
+    "loser": "Green Lake Crew, U.S.A.",
+    "stage": "Heats",
+    "date": "27-Jun-2023",
+    "finish_time": "6:53",
+    "verdict": "Easily"
+  },
+  {
+    "winner": "Llandaff Rowing Club",
+    "loser": "The King's School, Chester",
+    "stage": "Heats",
+    "date": "27-Jun-2023",
+    "finish_time": "6:54",
+    "verdict": "4 Lengths"
+  },
+  {
+    "winner": "Brisbane Boys' College, Australia",
+    "loser": "Monmouth School",
+    "stage": "Heats",
+    "date": "27-Jun-2023",
+    "finish_time": "7:02",
+    "verdict": "4 Lengths"
+  },
+  {
+    "winner": "Deerfield Academy, U.S.A.",
+    "loser": "Latymer Upper School",
+    "stage": "Heats",
+    "date": "27-Jun-2023",
+    "finish_time": "6:39",
+    "verdict": "1\u00bc Lengths"
+  }
+]

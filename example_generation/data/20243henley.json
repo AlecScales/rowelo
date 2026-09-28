@@ -1,0 +1,250 @@
+[
+  {
+    "winner": "Shiplake College",
+    "loser": "Radley College",
+    "stage": "Final",
+    "date": "6-Jul-2025",
+    "finish_time": "06:07",
+    "verdict": "1 length"
+  },
+  {
+    "winner": "Radley College",
+    "loser": "Hampton School",
+    "stage": "Semi-Final",
+    "date": "5-Jul-2025",
+    "finish_time": "06:29",
+    "verdict": "1\u00bc length"
+  },
+  {
+    "winner": "Shiplake College",
+    "loser": "St. Paul's School",
+    "stage": "Semi-Final",
+    "date": "5-Jul-2025",
+    "finish_time": "06:35",
+    "verdict": "1 length"
+  },
+  {
+    "winner": "Hampton School",
+    "loser": "St. Edward's School",
+    "stage": "Quarter-Final",
+    "date": "4-Jul-2025",
+    "finish_time": "06:36",
+    "verdict": "1\u00bc length"
+  },
+  {
+    "winner": "Radley College",
+    "loser": "Marin Rowing Association, U.S.A.",
+    "stage": "Quarter-Final",
+    "date": "4-Jul-2025",
+    "finish_time": "06:32",
+    "verdict": "\u00be length"
+  },
+  {
+    "winner": "Shiplake College",
+    "loser": "Bedford School",
+    "stage": "Quarter-Final",
+    "date": "4-Jul-2025",
+    "finish_time": "06:41",
+    "verdict": "1\u00bc length"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "Eton College",
+    "stage": "Quarter-Final",
+    "date": "4-Jul-2025",
+    "finish_time": "06:41",
+    "verdict": "1 \u00bd length"
+  },
+  {
+    "winner": "Marin Rowing Association, U.S.A.",
+    "loser": "Reading Blue Coat School",
+    "stage": "Heat",
+    "date": "2-Jul-2025",
+    "finish_time": "06:26",
+    "verdict": "1 \u2153 length"
+  },
+  {
+    "winner": "Radley College",
+    "loser": "Latymer Upper School",
+    "stage": "Heat",
+    "date": "2-Jul-2025",
+    "finish_time": "06:27",
+    "verdict": "1 \u00bd length"
+  },
+  {
+    "winner": "St. Edward's School",
+    "loser": "Westminster School",
+    "stage": "Heat",
+    "date": "2-Jul-2025",
+    "finish_time": "06:22",
+    "verdict": "1 length"
+  },
+  {
+    "winner": "Hampton School",
+    "loser": "St. Ignatius' College, Australia",
+    "stage": "Heat",
+    "date": "2-Jul-2025",
+    "finish_time": "06:17",
+    "verdict": "2 lengths"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "King's College School, Wimbledon",
+    "stage": "Heat",
+    "date": "2-Jul-2025",
+    "finish_time": "06:16",
+    "verdict": "\u2154 length"
+  },
+  {
+    "winner": "Eton College",
+    "loser": "Canford School",
+    "stage": "Heat",
+    "date": "2-Jul-2025",
+    "finish_time": "06:36",
+    "verdict": "4 \u00bd length"
+  },
+  {
+    "winner": "Shiplake College",
+    "loser": "Norcal Crew, U.S.A.",
+    "stage": "Heat",
+    "date": "2-Jul-2025",
+    "finish_time": "06:25",
+    "verdict": "1 \u00bd length"
+  },
+  {
+    "winner": "Bedford School",
+    "loser": "The King's School, Chester",
+    "stage": "Heat",
+    "date": "2-Jul-2025",
+    "finish_time": "06:36",
+    "verdict": "1 length"
+  },
+  {
+    "winner": "Reading Blue Coat School",
+    "loser": "Tideway Scullers' School",
+    "stage": "Heat",
+    "date": "1-Jul-2025",
+    "finish_time": "06:51",
+    "verdict": "2 lengths"
+  },
+  {
+    "winner": "Latymer Upper School",
+    "loser": "Shrewsbury School",
+    "stage": "Heat",
+    "date": "1-Jul-2025",
+    "finish_time": "06:32",
+    "verdict": "1\u00bc length"
+  },
+  {
+    "winner": "Marin Rowing Association, U.S.A.",
+    "loser": "Kew House School",
+    "stage": "Heat",
+    "date": "1-Jul-2025",
+    "finish_time": "06:40",
+    "verdict": "4 \u00bd length"
+  },
+  {
+    "winner": "Radley College",
+    "loser": "The Windsor Boys' School",
+    "stage": "Heat",
+    "date": "1-Jul-2025",
+    "finish_time": "06:44",
+    "verdict": "2 lengths"
+  },
+  {
+    "winner": "Westminster School",
+    "loser": "Emanuel School",
+    "stage": "Heat",
+    "date": "1-Jul-2025",
+    "finish_time": "06:39",
+    "verdict": "3 \u00bd length"
+  },
+  {
+    "winner": "St. Edward's School",
+    "loser": "St. Peter's School",
+    "stage": "Heat",
+    "date": "1-Jul-2025",
+    "finish_time": "06:53",
+    "verdict": "Easily"
+  },
+  {
+    "winner": "Hampton School",
+    "loser": "Dulwich College",
+    "stage": "Heat",
+    "date": "1-Jul-2025",
+    "finish_time": "06:32",
+    "verdict": "\u00be length"
+  },
+  {
+    "winner": "St. Ignatius' College, Australia",
+    "loser": "Wallingford Rowing Club",
+    "stage": "Heat",
+    "date": "1-Jul-2025",
+    "finish_time": "06:35",
+    "verdict": "\u00be length"
+  },
+  {
+    "winner": "Eton College",
+    "loser": "Great Marlow School",
+    "stage": "Heat",
+    "date": "1-Jul-2025",
+    "finish_time": "06:52",
+    "verdict": "5 lengths"
+  },
+  {
+    "winner": "Canford School",
+    "loser": "Boulogne 92 Aviron, France",
+    "stage": "Heat",
+    "date": "1-Jul-2025",
+    "finish_time": "06:50",
+    "verdict": "1 length"
+  },
+  {
+    "winner": "St. Paul's School",
+    "loser": "Norwich School",
+    "stage": "Heat",
+    "date": "1-Jul-2025",
+    "finish_time": "06:35",
+    "verdict": "1 \u00bd length"
+  },
+  {
+    "winner": "King's College School, Wimbledon",
+    "loser": "Winchester College",
+    "stage": "Heat",
+    "date": "1-Jul-2025",
+    "finish_time": "06:38",
+    "verdict": "5 lengths"
+  },
+  {
+    "winner": "Norcal Crew, U.S.A.",
+    "loser": "Bryanston School",
+    "stage": "Heat",
+    "date": "1-Jul-2025",
+    "finish_time": "06:46",
+    "verdict": "4 lengths"
+  },
+  {
+    "winner": "The King's School, Chester",
+    "loser": "Claires Court School",
+    "stage": "Heat",
+    "date": "1-Jul-2025",
+    "finish_time": "06:46",
+    "verdict": "3 \u00bd length"
+  },
+  {
+    "winner": "Shiplake College",
+    "loser": "St. George's College",
+    "stage": "Heat",
+    "date": "1-Jul-2025",
+    "finish_time": "06:46",
+    "verdict": "1 \u00bd length"
+  },
+  {
+    "winner": "Bedford School",
+    "loser": "Abingdon School",
+    "stage": "Heat",
+    "date": "1-Jul-2025",
+    "finish_time": "06:24",
+    "verdict": "2 lengths"
+  }
+]
