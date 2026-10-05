@@ -1,0 +1,14 @@
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+mysql-connector-python==8.0.33
+requests==2.31.0
+beautifulsoup4==4.12.2
+requests-html==0.10.0
+
+# Graphing (htmlgen.py)
+matplotlib==3.7.1
+mpld3==0.5.12
+
+# Async support (scraper_2nsr.py)
+nest-asyncio==1.5.6
